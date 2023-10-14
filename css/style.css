@@ -1917,3 +1917,23 @@ h6 {
             box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
   }
 }
+@media (max-width: 767px){
+	  .menu__link{
+		font-size: 1.3rem;
+	  }
+	  .column-categories__label{
+		font-size: 1.3rem;
+	  }
+	  .column-categories__amount{
+		font-size: 1.2rem;
+	  }
+	  .column-advantages__description{
+		font-size: 1rem;
+	  }
+}
+@media (max-width: 479px){
+	  .main-block__description{
+		padding-top: 30px;
+	  }
+	 
+}
